@@ -1,8 +1,28 @@
-tt.*
-.tests
-doc/tags
-debug
-.repro
-foo.*
+# Lazy.nvim plugin directory
+lazy-lock.json
+
+# Plugin data
+plugin/
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# Log files
 *.log
-data
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# LSP/Mason data (will be reinstalled)
+.luarc.json
+
+# Personal notes
+notes.txt
+TODO.md
