@@ -189,3 +189,4 @@ See my [Kitty config](https://github.com/YOUR_USERNAME/dotfiles) for transparent
 ## License
 
 MIT
+# nvim-config
