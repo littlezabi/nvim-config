@@ -1,4 +1,4 @@
-# My Neovim Configuration
+# Neovim Configuration for lazyvim
 
 LazyVim configuration for Django/Python development with Fish shell integration.
 
